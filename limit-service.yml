@@ -1,3 +1,3 @@
 limit.service:
-    max: 100
+    max: 101010
     min: 1
