@@ -1,0 +1,6 @@
+server:
+  port: 8100 
+  
+currency-exchange:
+ ribbon:
+    listOfServers: http://localhost:8000,http://localhost:8001
