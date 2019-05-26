@@ -7,10 +7,6 @@ feign:
     default:
       connectTimeout: 6000
       readTimeout: 6000
-  
-zia:
-  feign:
-    servicename: currency-exchange
     
 eureka:
   client:
